@@ -6,5 +6,5 @@ if st.button('인사말 생성'):
   st.write('반가워!!!')
   st.info(a+'! 안뇽 돈 줘!')
   st.warning(b+'이거 야무지지')
-  st.error('잘 부탁행!!)
+  st.error('잘 부탁행!!')
   st.ballons()
