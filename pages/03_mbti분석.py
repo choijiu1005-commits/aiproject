@@ -196,3 +196,4 @@ except FileNotFoundError:
 
 except Exception as e:
     st.error(f"데이터 처리 중 오류가 발생했습니다: {e}")
+ㄴㄴ
