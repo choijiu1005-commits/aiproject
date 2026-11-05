@@ -503,5 +503,4 @@ with st.expander("연령별 인구수 자세히 보기"):
 st.caption(
     "자료: 구리시 인구 통계 CSV 파일"
 )
-ㄴ
-ㄴ
+
