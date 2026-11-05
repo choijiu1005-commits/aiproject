@@ -3,5 +3,6 @@ streamlit
 folium
 streamlit-folium
 pandas
-altair
+plotly
+
 
