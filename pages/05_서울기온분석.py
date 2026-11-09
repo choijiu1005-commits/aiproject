@@ -18,7 +18,7 @@ st.write("월을 선택하면 연도별 최고기온과 최저기온을 비교�
 @st.cache_data
 def load_data():
 
-    file_name = "temperature(1).csv"
+    file_name = "temperature.csv"
 
     # 현재 파일 위치를 기준으로 CSV 찾기
     base_path = Path(__file__).resolve().parent
