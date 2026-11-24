@@ -1,6 +1,5 @@
 
-streamlit
-pandas
-scikit-learn
-matplotlib
-
+streamlit>=1.35.0
+folium>=0.17.0
+streamlit-folium>=0.22.0
+geopy>=2.4.1
